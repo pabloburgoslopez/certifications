@@ -9,7 +9,5 @@ Este repositorio centraliza copias de certificados y comprobantes (PDF/imagen).
 - Connect and Protect: Networks and Network Security — [PDF](./Connect_and_Protect.pdf)
 - Tools of the Trade: Linux and SQL — *(en progreso)*
 
-> Coloca aquí los archivos `.pdf` o `.png/.jpg` de tus certificados. Si aún no los subes, deja estos placeholders.
-
 ## Hack The Box
 - Entrenamiento y labs (en progreso).
